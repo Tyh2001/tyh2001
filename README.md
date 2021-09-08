@@ -1,4 +1,4 @@
-<img align="right" src="https://tianyuhao.icu/images/my.jpg" />
+<img align="right" src="" />
 
 ## Hello
 
