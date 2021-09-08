@@ -1,5 +1,3 @@
-<img align="right" src="" />
-
 ## Hello
 
 #### Welcome to my Github
