@@ -2,7 +2,7 @@
 
 #### Welcome to my Github
 
-My name is **Tian Yuhao**,My birthday is September 17th,I am an independent developer,Now I work in Hangzhou.
+My name is **TianYuhao**,My birthday is September 17th,I am an independent developer,Now I work in Hangzhou.
 
 [维维](https://weibo.com/u/5083033240) is my favorite person,She is a very nice girl,We took a lot of photos together.
 
