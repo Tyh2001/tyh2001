@@ -1,4 +1,4 @@
-# **:wave:**Hello
+# :wave:Hello
 
 ## Welcome to my Github:pushpin:
 
