@@ -8,4 +8,4 @@ My favorite development framework is [Vue.js](https://v3.cn.vuejs.org),I also cr
 
 You can learn about me through [weibo](https://weibo.com/u/7112859998):four_leaf_clover:.
 
-[![Tyh2001's github stats](https://github-readme-stats.vercel.app/api?username=Tyh2001)]()
+[![Tyh2001's github stats](https://github-readme-stats.vercel.app/api?username=Tyh2001)(https://github.com/Tyh2001/tyh-ui2)
