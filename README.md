@@ -6,6 +6,6 @@ My name is **TianYuhao**:grin:,My birthday is September 17th:birthday:,I am an i
 
 My favorite development framework is [Vue.js](https://v3.cn.vuejs.org),I also created my own Vue component library [tyh UI](https://tianyuhao.icu/tyhui/v3):star:.
 
-You can learn about me through [weibo](https://weibo.com/tyh2001):four_leaf_clover:.
+You can learn about me through [my blog](https://tianyuhao.icu/blog):four_leaf_clover:.
 
 [![Tyh2001's github stats](https://github-readme-stats.vercel.app/api?username=Tyh2001)](https://github.com/Tyh2001/tyh-ui2)
