@@ -9,3 +9,13 @@ My favorite development framework is [Vue.js](https://v3.cn.vuejs.org),I also cr
 You can learn about me through [my blog](https://tianyuhao.cn/blog):four_leaf_clover:.
 
 [![Tyh2001's github stats](https://github-readme-stats.vercel.app/api?username=Tyh2001)](https://github.com/Tyh2001/tyh-ui2)
+
+## My work
+
+<a href="https://github.com/Tyh2001/tyh-ui">
+  <img height="60px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui-logo.svg">
+</a>
+
+<a href="https://github.com/Tyh2001/tyh-ui2">
+  <img height="60px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui2-logo.svg">
+</a>
