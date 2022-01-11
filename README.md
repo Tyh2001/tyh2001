@@ -13,9 +13,9 @@ You can learn about me through [my blog](https://tianyuhao.cn/blog):four_leaf_cl
 ## My work
 
 <a href="https://github.com/Tyh2001/tyh-ui" style="margin-right: 20px;" target="_back">
-  <img height="35px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui-logo.svg">
+  <img height="30px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui-logo.svg">
 </a>
 
 <a href="https://github.com/Tyh2001/tyh-ui2" style="margin-right: 20px;" target="_back">
-  <img height="35px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui2-logo.svg">
+  <img height="30px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui2-logo.svg">
 </a>
