@@ -11,3 +11,5 @@
 <p align="center">You can also get to know me through <a href="https://weibo.com/tyh2001" target="_back">microblog</a> and <a href="https://twitter.com/tyh20011" target="_back">twitter</a>.</p>
 
 [![Tyh2001's github stats](https://github-readme-stats.vercel.app/api?username=Tyh2001)](https://github.com/Tyh2001/tyh-ui2)
+
+<img height="99px" src="https://github-readme-stats.vercel.app/api?username=Tyh2001">
