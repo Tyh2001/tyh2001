@@ -6,7 +6,7 @@ My favorite development framework is [vue.js](https://v3.cn.vuejs.org),I also cr
 
 You can also get to know me through [blog](https://tianyuhao.cn/blog) and [twitter](https://twitter.com/tyh20011).
 
-:speech_balloon: WeChat：VirgoTyh
+:speech_balloon: WeChat：**VirgoTyh**
 
 :envelope: Mail：1469442737@qq.com
 
