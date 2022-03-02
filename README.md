@@ -6,9 +6,9 @@ My favorite development framework is [vue.js](https://v3.cn.vuejs.org),I also cr
 
 You can also get to know me through [blog](https://tianyuhao.cn/blog) and [twitter](https://twitter.com/tyh20011).
 
-:speech_balloon: WeChat：**VirgoTyh**
+:speech_balloon: WeChat: **VirgoTyh**
 
-:envelope: Mail：1469442737@qq.com
+:envelope: Mail: **1469442737@qq.com**
 
 <a href="https://github.com/Tyh2001/tyh-ui" target="_back">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Tyh2001">
