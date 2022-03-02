@@ -1,5 +1,3 @@
-<img height="99px" src="https://tianyuhao.cn/images/my.png">
-
 ## Hi~ I'm Tian Yuhao.
 
 I am an independent developer,Now I work in Hangzhou.
