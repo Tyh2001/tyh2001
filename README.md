@@ -1,4 +1,4 @@
-## Hi~ I'm Tian Yuhao.
+## Hi~I'm Tian Yuhao
 
 I am an independent developer,Now I work in Hangzhou.
 
