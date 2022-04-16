@@ -12,6 +12,4 @@ You can also get to know me through [blog](https://tianyuhao.cn/blog) and [twitt
 
 :bookmark_tabs: 掘金：[田同学2001](https://juejin.cn/user/2243446742456888)
 
-<a href="https://github.com/Tyh2001/tyh-ui" target="_back">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Tyh2001">
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=Tyh2001)](https://github.com/Tyh2001/tyh-ui)
