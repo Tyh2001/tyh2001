@@ -4,7 +4,7 @@ I am an independent developer,Now I work in [Hangzhou](<https://map.baidu.com/se
 
 My favorite development framework is [Vue.js](https://v3.cn.vuejs.org),I also created my own vue component library [Fighting Design](https://fighting.tianyuhao.cn).
 
-You can also get to know me through [blog](https://tianyuhao.cn/blog) and [twitter](https://twitter.com/tyh20011).
+You can also get to know me through [blog](https://tianyuhao.cn/blog).
 
 :speech_balloon: 微信: **VirgoTyh**（添加微信请备注 Github 用户名）
 
