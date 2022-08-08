@@ -6,7 +6,7 @@ My favorite development framework is [Vue.js](https://v3.cn.vuejs.org),I also cr
 
 You can also get to know me through [blog](https://tianyuhao.cn/blog).
 
-:speech_balloon: 微信: **VirgoTyh**（添加微信请备注 Github 用户名）
+:speech_balloon: 微信: **VirgoTyh**（添加微信请备注 Github 用户名，**不加女生**）
 
 :envelope: Mail: **1469442737@qq.com**
 
