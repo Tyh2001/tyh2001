@@ -1,4 +1,4 @@
-## 👋 Hi~I'm Tian Yuhao
+## Hi there
 
 🍋 简介：[tyh](https://tianyuhao.cn)
 
@@ -9,7 +9,7 @@
 ![](https://tianyuhao.cn/images/auto/weixin.png)[![](https://github-readme-stats.vercel.app/api?username=Tyh2001)](<[https://github.com/FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design)>)
 
 <details>
-<summary>我的开源项目</summary>
+<summary>🌵🌵 我的开源项目 🌵🌵</summary>
 
 | 项目                                                                            | 描述                                                                              | 主页                                                                                           | Star                                                                             |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
