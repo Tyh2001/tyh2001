@@ -6,7 +6,7 @@
 
 🎉 项目：[我的开源项目推荐](https://github.com/Tyh2001/tyh2001/blob/master/PROJECT_LIST.md)
 
-🎉 我的女孩：[Fighting 维~](https://github.com/Fightingweiwei)
+👧 我的女孩：[Fighting 维~](https://github.com/Fightingweiwei)
 
 💬 微信: **VirgoTyh**（请备注 Github 用户名，**不加女生**）
 
