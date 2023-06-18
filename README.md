@@ -10,4 +10,6 @@
 
 💬 微信: **VirgoTyh**（请备注 Github 用户名，**不加女生。**）
 
+<img width="200" src="https://tianyuhao.cn/images/auto/weixin.png" >
+
 ![](https://tianyuhao.cn/images/auto/weixin-1.png)[![](https://github-readme-stats.vercel.app/api?username=Tyh2001)](<[https://github.com/FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design)>)
