@@ -11,9 +11,8 @@
 💬 微信: **VirgoTyh**（请备注 Github 用户名，**不加女生。**）
 
 <p>
-  <img width="200" style="display: inline-block;" src="https://tianyuhao.cn/images/auto/weixin.jpg" >
-
-   <img height="200" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Tyh2001" >
+  <img width="200" style="display: inline-block;" src="https://tianyuhao.cn/images/auto/weixin-2.jpg" >
+  <img height="200" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Tyh2001" >
 </p>
 
 
