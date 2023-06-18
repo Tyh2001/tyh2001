@@ -13,7 +13,7 @@
 <p>
   <img width="200" style="display: inline-block;" src="https://tianyuhao.cn/images/auto/weixin.jpg" >
 
-  [![](https://github-readme-stats.vercel.app/api?username=Tyh2001)](<[https://github.com/FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design)>)
+   <img height="200" style="display: inline-block;" src="https://tianyuhao.cn/images/auto/weixin.jpg](https://github-readme-stats.vercel.app/api?username=Tyh2001)" >
 </p>
 
 
