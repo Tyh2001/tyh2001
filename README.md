@@ -12,4 +12,4 @@
 
 <img width="200" src="https://tianyuhao.cn/images/auto/weixin.jpg" >
 
-![](https://tianyuhao.cn/images/auto/weixin-1.png)[![](https://github-readme-stats.vercel.app/api?username=Tyh2001)](<[https://github.com/FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design)>)
+![](https://tianyuhao.cn/images/auto/weixin-2.jpg)[![](https://github-readme-stats.vercel.app/api?username=Tyh2001)](<[https://github.com/FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design)>)
