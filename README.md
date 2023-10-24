@@ -6,4 +6,4 @@
 
 👧 我的女孩：[Fighting 维~](https://github.com/Fightingweiwei)
 
-💬 微信: **VirgoTyh**（请备注 Github 用户名，**不加女生。**）
+💬 微信: **VirgoTyh**（请备注 Github 用户名）
