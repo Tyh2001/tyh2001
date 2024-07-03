@@ -4,4 +4,4 @@
 
 - Wechat: **T2000000000000000001**
 - My girl：[Fighting 维~](https://github.com/Fightingweiwei)
-- My Resume: [YuHao Tian](https://drive.google.com/file/d/1-_eY-AtDKK963ZJYGm5Wm0nfNr9qlXCy/view?usp=sharing)
+- My Resume: [YuHao Tian](https://drive.google.com/file/d/1z86YF564ZyxifvKIRFaTtTzt0uQnGmN1/view?usp=drive_link)
