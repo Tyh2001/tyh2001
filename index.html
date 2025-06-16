@@ -4,13 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="icon" href="https://tianyuhao.cn/images/my.png" />
-  <meta name="Keywords"
-    content="田同学,Tyh,前端,前端开发,组件库,vue3组件库,vue,vuejs,javascript,typescript,vite,css3,css,html,html5,js,ts,scss,sass,fighting-design,fighting,design,setup,eslint,es6,rollup,components,vitepress,vitest,element,element-ui,ui,element-plus,go,golang,web-components,web,jquery,less,eslint" />
-  <meta name="description"
-    content="田同学的个人网站首页。我是一个独立的前端开发者，现在在杭州工作，我开发了自己的基于 vue3 的组件库 Fighting Design 和一些其它的开源项目等等，你可以通过下方有各种链接来了解我" />
-  <mate name="author" content="https://github.com/Tyh2001" />
-  <title>田同学 | Tyh2001</title>
+  <title>田羽 | Tyh2001</title>
   <style>
     * {
       margin: 0;
@@ -21,18 +15,6 @@
     #app {
       margin: 30px auto;
       width: 760px
-    }
-
-    #app .photo {
-      text-align: center
-    }
-
-    #app .photo img {
-      width: 99px;
-      height: 99px;
-      border-radius: 50%;
-      border: 6px solid #e1f5ff;
-      cursor: pointer
     }
 
     #app h1,
@@ -47,149 +29,16 @@
       font-weight: 300;
       margin-top: 19px
     }
-
-    #app .blog,
-    #app .github {
-      width: 140px;
-      padding: 0 22px;
-      height: 40px;
-      cursor: pointer;
-      user-select: none;
-      font-size: 16px
-    }
-
-    #app .blog,
-    #app .github:hover {
-      opacity: .8;
-    }
-
-    #app .blog,
-    #app .github:active {
-      opacity: 1;
-    }
-
-    #app .github {
-      color: #fff;
-      border: none;
-      background: #3a6ff4
-    }
-
-    #app .blog {
-      color: #3a6ff4;
-      border: 1px solid #3a6ff4;
-      background: #fff
-    }
-
-    #app .web {
-      color: #3a6ff4;
-      font-weight: 500;
-      text-decoration: none;
-      cursor: pointer
-    }
-
-    #app .web:hover {
-      text-decoration: underline
-    }
-
-    #app .time {
-      color: #3a6ff4;
-      font-weight: 500
-    }
-
-    @media screen and (max-width:760px) {
-      #app {
-        width: 100%;
-        padding: 40px;
-        box-sizing: border-box
-      }
-    }
-
-    #app .list a {
-      text-decoration: none;
-    }
-
-    #app .list img {
-      cursor: pointer;
-      padding: 5px;
-    }
   </style>
 </head>
 
 <body>
   <div id="app">
-    <p class="photo">
-      <a href="" title="田同学 tyh">
-        <img src="https://tianyuhao.cn/images/auto/my.png" alt="田同学 tyh">
-      </a>
-    </p>
+    <h1>Hi~</h1>
 
-    <h1>Hi~ I'm Tian Yuhao.</h1>
-
-    <p>I am an independent developer,Now I work in <a class="web"
-        href="https://map.baidu.com/search/%E6%9D%AD%E5%B7%9E%E5%B8%82/@13382475,3514398,12z?querytype=s&da_src=shareurl&wd=%E6%9D%AD%E5%B7%9E&c=1&src=0&pn=0&sug=0&l=5&b=(7323123.5999886,2269430.630033737;18595315.599988602,7381238.630033737)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&device_ratio=2"
-        target="_blank" title="杭州 hangzhou">Hangzhou</a>.
-    </p>
-
-    <p>My favorite development framework is <a class="web" href="https://staging-cn.vuejs.org/" target="_back"
-        title="vue.js">Vue.js</a>,I
-      also created my own vue component library
-      <a class="web" href="https://fighting.tianyuhao.cn" target="_back" title="Fighting Design">Fighting Design</a>.
-    </p>
-
-    <p><a class="web" href="https://github.com/Fightingweiwei" target="_back" title="维维很哇塞">weiwei</a> is my favorite
-      girl,She is a very nice girl,We took a lot of photos together,We're already
-      together: <span class="time"></span>.
-    </p>
-
-    <p>Here are some of my open source projects:</p>
-
-    <p class="list">
-      <a href="https://fighting.tianyuhao.cn" target="_back" title="FightingDesign">
-        <img width="30px" src="https://tianyuhao.cn/images/fighting-design/FightingDesign.svg"
-          alt="fighting-design Logo">
-      </a>
-      <a href="https://mango.tianyuhao.cn" target="_back" title="TsMango">
-        <img width="30px" src="https://tianyuhao.cn/images/ts-mango/ts-mango.svg" alt="ts-mango Logo">
-      </a>
-      <a href="https://v3.tianyuhao.cn" target="_back" title="TyhUi2">
-        <img width="30px" src="https://tianyuhao.cn/images/tyh-ui/tyh-ui2.svg" alt="tyh-ui2 Logo">
-      </a>
-    </p>
-
-
-    <p style="margin-top: 20px;">
-      <a href="https://github.com/Tyh2001" target="_back"><button class="github">Github</button></a>
-      <a href="https://blog.tianyuhao.cn" target="_back"><button class="blog">Blog</button></a>
-    </p>
+    <p>I am a photographer.</p>
   </div>
 
-  <script>
-    const weTogether = time => {
-      const nowStamp = new Date().getTime()
-      const targetStamp = new Date(time.replace(/-/g, '/')).getTime()
-      const difference = nowStamp - targetStamp
-      const allSeconds = Math.floor(difference / 1000)
-      const allMinutes = Math.floor(allSeconds / 60)
-      const allHours = Math.floor(allMinutes / 60)
-      const day = Math.floor(allHours / 24)
-      const hours = allHours % 24
-      const minutes = allMinutes % 60
-      const seconds = allSeconds % 60
-      return `${day}day ${hours}hour ${minutes}minute ${seconds}second`
-    }
-
-    const timeNode = document.querySelector('.time')
-    timeNode.innerHTML = weTogether('2021-08-15 21:00')
-
-    const render = () => {
-      setTimeout(() => {
-        timeNode.innerHTML = weTogether('2021-08-15 21:00')
-        render()
-      }, 1000)
-    }
-
-    render()
-  </script>
 </body>
 
 </html>
